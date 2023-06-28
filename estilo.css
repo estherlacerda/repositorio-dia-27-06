@@ -1,0 +1,29 @@
+.jumbotron {
+    padding: 80px;
+    margin-bottom: 0%;
+    background-image: url(montanha2.jpg);
+    background-size: cover;
+    background-color: aquamarine;
+}
+.container {
+    margin-top: 40px;
+    }
+
+    .container h2 {
+    color: #333;
+    font-size: 30px;
+    margin-bottom: 20px;
+    }
+
+    .container p {
+    margin-bottom: 20px;
+    }
+.card mb-3{ 
+    height: 250px;
+    background-color: blue;
+
+}  
+.depoimentos{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
